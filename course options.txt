@@ -1,0 +1,13 @@
+* CS 308 (Quantum Computing)
+* CS 412 (Software Security)
+* CS 320 (Computer Language Processing)
+* CS 420 (Advanced Compiler Construction)
+* COM 480 (Data Visualization)
+* COM 308 (Internet Analytics)
+* MATH 453 (Computational Linear Algebra)
+* MATH 413 (Statistics for Data Science)
+* CS 439 (Optimization for Machine Learning)
+* CS 311 (The Software Enterprise - From Ideas to Products)
+* CS 300 (Data-intensive Systems) (All the OS stuff overlaps with CPEN 331, so is it worth just for database content?)
+
+* CS 496 (Research Project in Cyber Security)
